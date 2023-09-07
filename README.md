@@ -1,1 +1,1 @@
-# goit-js-hw-06
+https://piotrporadowski.github.io/goit-js-hw-06/
